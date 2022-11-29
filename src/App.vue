@@ -111,12 +111,6 @@ export default {
       </div>
     </ul><br />
     <movie-form @movie-added="addMovie" id="movieform"></movie-form>
-
-
-
-
-
-
   </div>
 </template>
 
